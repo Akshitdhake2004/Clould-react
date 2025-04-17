@@ -19,7 +19,8 @@
 .card .card-title{
   font-family: Arial,sans-serif;
   margin: 0;
-  color: hsl(0, 0%, 20%);
+  color: hsl(120, 100%, 25%);
+
 }
 
 .card .card-text{
